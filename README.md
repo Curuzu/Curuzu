@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there 👋 My name is Anri Santos and i'm a beginner
 
-<!--
-**Curuzu/Curuzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm 18 years old
+- My english is mid, so i preffer to use Brazillian portuguese on coding
+- Born and rise on Salvador - Brazil
+- My pronouns are he/him
+- I'm currently learning web development with HTML5, CSS3 and Js
+- I wanted to be a programmer since I was 12, but my family dosen't had money for a pc, now i'm studying to return the favor
+- how contact me: feel free to tell me something on @lazygenius2571 on twitter or Say#1102
+- i'm currently on the last year of eletronics thechnitian high school
+- if i'm not coding, i'm playing basketball
